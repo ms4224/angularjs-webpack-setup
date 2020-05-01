@@ -1,7 +1,4 @@
 Good guide: http://angular-tips.com/blog/2015/06/using-angular-1-dot-x-with-es6-and-webpack/
 Better: http://compiledweb.com/angularjs-with-webpack-part-2-angular-component-and-webpack-loader/
 
-1.Got basic webpack working.
-2.
-NeXT --- make two controllers, make sure webpack works.
-Look into components, then do css with webpack
+DONE :)
