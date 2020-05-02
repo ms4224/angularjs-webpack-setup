@@ -1,4 +1,9 @@
-test-directive p{background-color:red}
+test-directive p {
+  background-color: red; }
 
-p{font-size:20px;border:1px solid green}
+p {
+  font-size: 20px;
+  border: 1px solid green; }
 
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9qcy90ZXN0L3Rlc3Quc2NzcyIsIndlYnBhY2s6Ly8vLi9qcy90ZXN0L3Rlc3QudjIuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtBQUNBLHdCQUF3Qjs7QUNEeEI7QUFDQTtBQUNBLDBCQUEwQiIsImZpbGUiOiJtYWluLmNzcyIsInNvdXJjZXNDb250ZW50IjpbInRlc3QtZGlyZWN0aXZlIHAge1xuICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7IH1cbiIsInAge1xuICBmb250LXNpemU6IDIwcHg7XG4gIGJvcmRlcjogMXB4IHNvbGlkIGdyZWVuOyB9XG4iXSwic291cmNlUm9vdCI6IiJ9*/
