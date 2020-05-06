@@ -1,0 +1,15 @@
+<div>
+    <div>
+        This is the events directive.
+    </div>
+    <div ng-controller="EventsParentController as Parent">
+        This is the parent Scope containing div.
+        <button ng-click="Parent.broadCast();">{{Parent.message}}</button>
+
+        <div ng-controller="EventsChildController as Child">
+            This is the child div.
+            <button ng-click="Child.emit();">{{Child.message}}</button>
+        </div>
+    </div>
+    <div>Lets access passed in values from parent template, now in the isolate scope.  Object name: {{customerInfo.name}}</div>
+</div>
